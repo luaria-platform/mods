@@ -4,7 +4,7 @@
   "developer": "bmotm",
   "version": "1.1.0",
   "dependencies": {
-    "luaria": "0.6b2",
+    "luaria": ">=0.6b2",
     "terraria": ">=1.4.4"
   },
   "summary": "A mod for using forbidden commands",
