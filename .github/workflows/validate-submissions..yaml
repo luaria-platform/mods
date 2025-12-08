@@ -1,0 +1,8 @@
+name: Validate Submissions (Disabled)
+on: []
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Workflow not configured"
