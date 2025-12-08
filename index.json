@@ -1,5 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2025-12-08T04:03:29.246882Z",
-  "mods": []
+  "last_updated": "2025-12-08T04:26:50.055397Z",
+  "mods": [
+    "com.bmotm.tcmd"
+  ]
 }
